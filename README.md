@@ -3,7 +3,7 @@
 
 > **本项目目前只在[知识星球](https://programmercarl.com/other/kstar.html)答疑并维护**。
 
-录友们有没有在卡码笔记（https://notes.kamacoder.com）上做过笔记呢。
+录友们有没有在[卡码笔记](https://notes.kamacoder.com)上做过笔记呢。
 
 卡码笔记已经上线几个月了，每天都有一百多人在上面做笔记，非常活跃。
 
